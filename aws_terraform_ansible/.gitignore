@@ -1,0 +1,8 @@
+.*
+!.gitignore
+*.pem
+ansible.cfg
+inventory
+scp-ansible-config.sh
+ssh-to*
+
